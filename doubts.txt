@@ -1,0 +1,18 @@
+leetcode - 
+876. middle of linked list
+
+49. group anagrams - 2nd approach not clear
+
+unclear problems with unclear solutions= 
+
+random pick with weight
+queue reconstruction with height
+coin change 2
+
+why dp array has size [n+1][m+1], why +1, not n, m?
+
+when to take low<=high and low<high and why?
+
+Largest Divisible Subset - similar to LIS, so implement/understand it after LIS, it's a DP question.
+
+cheapest flights with k stops - based on dijsktra algo, needs revision and understanding
